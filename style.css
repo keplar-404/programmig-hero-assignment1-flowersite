@@ -13,6 +13,7 @@
     text-align: center;
     font-size: 40px;
     font-weight: 800;
+    font-family: 'Lato', sans-serif;
 }
 
 .global-text {
@@ -22,6 +23,7 @@
     font-weight: 400;
     line-height: 30px;
     margin-top: 24px;
+    font-family: 'Lato', sans-serif;
 }
 
 /* header */
@@ -32,8 +34,9 @@
 
 .title-header {
     color: black;
-    font-size: 80px;
+    font-size: 77px;
     font-weight: 800;
+    font-family: 'Lato', sans-serif;
 }
 
 .text-header {
@@ -65,6 +68,7 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    font-family: 'Lato', sans-serif;
 }
 
 .header-btn {
@@ -76,6 +80,7 @@
     background: #E55473;
     border: none;
     cursor: pointer;
+    font-family: 'Lato', sans-serif;
 
 }
 
@@ -106,6 +111,7 @@
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+    font-family: 'Lato', sans-serif;
 }
 
 .featured-flower-layout-section-1 {
@@ -162,12 +168,6 @@
     justify-content: center;
     align-items: center;
     column-gap: 186px;
-}
-
-.discount-section-title {
-    color: black;
-    font-size: 40px;
-    font-weight: 800;
 }
 
 .discount-section-title-colorful-text {
@@ -314,6 +314,7 @@
     font-weight: 700;
     margin-left: 16px;
     cursor: pointer;
+    font-family: 'Lato', sans-serif;
 }
 
 /* footer */
@@ -332,4 +333,5 @@
     font-size: 16px;
     font-weight: 400;
     margin-top: 32px;
+    font-family: 'Lato', sans-serif;
 }
